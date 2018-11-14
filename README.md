@@ -58,4 +58,12 @@ Simple tables using pipe symbol and minus signs:
 - [X] check list 1
 - [ ] check list 1
 
+# Links and Images
+
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)
+
+For images:
+
+![CLN5] (https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2121-10-83/MediaObjects/12860_2009_Article_432_Fig1_HTML.jpg)
+
 
