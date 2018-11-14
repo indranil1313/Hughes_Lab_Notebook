@@ -76,4 +76,10 @@ For images:
 
 ![CLN5](https://www.abcam.com/ps/products/170/ab170899/Images/ab170899-170851-ab170899IF.jpg)
 
+This repository contains some Methods and Results for my experiments.
 
+Please look at [Results](/Results/) for up-to-date results
+
+Please look at [Methods](/Methods/) for up-to-date Methods
+
+If you want to see my lab log, take a look at [General_notes](/General_notes/)
