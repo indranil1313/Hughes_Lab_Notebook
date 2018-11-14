@@ -30,8 +30,20 @@ If you want to type "\*" on its own, you need to lead it with \\
 
 _this is also italicised_
 
-combine bold and italics
+# combine bold and italics
 
 **_bold and italics_**
 
-***bolditalics***
+***bold and italics***
+
+# Line ruling
+
+----
+
+OR
+
+____
+
+OR
+
+****
