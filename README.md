@@ -64,6 +64,6 @@ Simple tables using pipe symbol and minus signs:
 
 For images:
 
-![CLN5] (https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2121-10-83/MediaObjects/12860_2009_Article_432_Fig1_HTML.jpg)
+![CLN5](https://www.abcam.com/ps/products/170/ab170899/Images/ab170899-170851-ab170899IF.jpg)
 
 
