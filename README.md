@@ -1,49 +1,35 @@
 # Hughes_Lab_Notebook
 
-Normal text
+# Quotes and Code Blocks
 
-# Main Headers
+## Quotes
 
-## Secondary Header
+To add quotes, use a greater than sign:
 
-### Third Header
+> This is a quote
 
-#### Fourth Header
+>>>> This is a quote
 
-##### Fifth Header
+This is a multi-line quote:
 
-###### Sixth Header
+> Here is some multiline quotes.
 
-# Bold  and Italics
+> Another line
 
-## Bold
+Quotes get put on the same line, is space below
 
-To put text in bold, use two asterisks: **this is a bold text**
+## Code Blocks
 
-\*
+To make a code block in your text, use three backticks:
 
-__this is also bold__
+```
+indtall.packages("tidyverse")
+library(tidyverse)
+```
 
-If you want to type "\*" on its own, you need to lead it with \\
+codes within your text: `echo hello world!`
 
-*this is italicised*
 
-_this is also italicised_
 
-# combine bold and italics
 
-**_bold and italics_**
 
-***bold and italics***
-
-# Line ruling
-
-----
-
-OR
-
-____
-
-OR
-
-****
